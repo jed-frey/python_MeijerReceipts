@@ -1,3 +1,10 @@
+.secrets
+*.pdf
+*.csv
+*.sqlite
+
+## GitHub Python Ignore
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

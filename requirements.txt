@@ -1,0 +1,7 @@
+jupyter
+notebook
+pdfminer.six
+pypdfparse
+selenium
+pony
+requests
